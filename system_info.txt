@@ -1,0 +1,14 @@
+Time: 05:30
+Memory: used 6901.11 TB / total 7985.69 TB (86.42%)
+Swap: used 11624.66 TB / total 15330.21 TB (75.83%)
+CPU Usage: CPU 1: 100.00%, CPU 2: 34.36%, CPU 3: 34.36%, CPU 4: 40.93%, CPU 5: 21.23%, CPU 6: 21.23%, CPU 7: 27.80%, CPU 8: 14.67%
+Disk Usage: OS: 209.63 GB used / 216.78 GB total (96.70%), DATA: 55.14 GB used / 467.22 GB total (11.80%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
+Time: 05:32
+Memory: used 6426.07 TB / total 7985.69 TB (80.47%)
+Swap: used 11302.83 TB / total 15330.21 TB (73.73%)
+CPU Usage: CPU 1: 0.00%, CPU 2: 75.87%, CPU 3: 0.00%, CPU 4: 0.00%, CPU 5: 3.48%, CPU 6: 3.48%, CPU 7: 0.00%, CPU 8: 0.00%
+Disk Usage: OS: 209.63 GB used / 216.78 GB total (96.70%), DATA: 55.14 GB used / 467.22 GB total (11.80%), Data: 306.88 GB used / 464.17 GB total (66.11%)
+Network Usage: Wi-Fi: received 0 KB / transmitted 0 KB
+
